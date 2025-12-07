@@ -1,6 +1,6 @@
 # Model Training and Techniques Documentation
 
-## 🚗 License Plate Detection Model (YOLOv5)
+##  License Plate Detection Model (YOLOv5) 🚙
 
 ### Overview
 
